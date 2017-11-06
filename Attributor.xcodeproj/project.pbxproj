@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		50141C2A1FAC92E300E9CE77 /* TextStatsViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 50141C291FAC92E300E9CE77 /* TextStatsViewController.m */; };
 		5039DEF81FAB087D00BBD5C3 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 5039DEF71FAB087D00BBD5C3 /* main.m */; };
 		5039DEFB1FAB087D00BBD5C3 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 5039DEFA1FAB087D00BBD5C3 /* AppDelegate.m */; };
 		5039DEFE1FAB087D00BBD5C3 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 5039DEFD1FAB087D00BBD5C3 /* ViewController.m */; };
@@ -35,6 +36,8 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		50141C281FAC92E300E9CE77 /* TextStatsViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TextStatsViewController.h; sourceTree = "<group>"; };
+		50141C291FAC92E300E9CE77 /* TextStatsViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TextStatsViewController.m; sourceTree = "<group>"; };
 		5039DEF31FAB087C00BBD5C3 /* Attributor.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Attributor.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		5039DEF71FAB087D00BBD5C3 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		5039DEF91FAB087D00BBD5C3 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
@@ -101,6 +104,8 @@
 		5039DEF51FAB087C00BBD5C3 /* Attributor */ = {
 			isa = PBXGroup;
 			children = (
+				50141C281FAC92E300E9CE77 /* TextStatsViewController.h */,
+				50141C291FAC92E300E9CE77 /* TextStatsViewController.m */,
 				5039DEFC1FAB087D00BBD5C3 /* ViewController.h */,
 				5039DEFD1FAB087D00BBD5C3 /* ViewController.m */,
 				5039DEFF1FAB087D00BBD5C3 /* Main.storyboard */,
@@ -273,6 +278,7 @@
 				5039DEFE1FAB087D00BBD5C3 /* ViewController.m in Sources */,
 				5039DEFB1FAB087D00BBD5C3 /* AppDelegate.m in Sources */,
 				5039DEF81FAB087D00BBD5C3 /* main.m in Sources */,
+				50141C2A1FAC92E300E9CE77 /* TextStatsViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
